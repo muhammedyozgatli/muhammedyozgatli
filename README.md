@@ -1,5 +1,6 @@
-![MasterHead]()
 
+
+<a href="https://resmim.net/"><img src="https://resmim.net/cdn/2025/03/29/NravGC.jpg" alt="resim yükle" border="0" /></a>
 
 <h1 align="center">Hi 👋, I'm Muhammed</h1>
 <h3 align="center">Junior developer with a passion for learning</h3>
