@@ -1,4 +1,4 @@
-![MasterHead](https://i.hizliresim.com/b0mj7dy.jpg)
+![MasterHead]([https://i.hizliresim.com/b0mj7dy.jpg](https://media.licdn.com/dms/image/v2/D4D03AQGE8MF0nge6fw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1719149188108?e=1748476800&v=beta&t=8T1fwvS7uMeuQ3sQhLNAUq7ZkN9SSCbtu1D-cRmShuk))
 
 
 <h1 align="center">Hi 👋, I'm Muhammed</h1>
